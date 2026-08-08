@@ -4,6 +4,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | AI & Machine Learning Enthusiast | India</h3>
 
 <p align="center"> <img src="https://img.shields.io/badge/Profile%20Views-0-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Experience-Fresher-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge" /> </p>
+<img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -21,4 +22,4 @@
 - 📍 Based in **India**
 
 ---
-<img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
